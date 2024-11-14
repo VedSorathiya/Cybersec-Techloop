@@ -1,0 +1,3 @@
+Clue: The password begins with NCL-LTOX- and end with 4 numbers. Can you
+use hashcat to guess the answer?
+What is the command line you need to use with hashcat to get the answer?

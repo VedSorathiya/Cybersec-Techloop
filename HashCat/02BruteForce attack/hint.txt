@@ -1,0 +1,1 @@
+MD5, password is a 4 digit number
